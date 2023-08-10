@@ -9,7 +9,7 @@ npm i && npm start
 
 
 ### Demo - Deployed over Vercel
-[https://weather-i3a4-2yg7v4r11-gyanu2507.vercel.app/]
+https://weather-i3a4-2yg7v4r11-gyanu2507.vercel.app/
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
